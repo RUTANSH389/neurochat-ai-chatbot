@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     OkHttpClient client = new OkHttpClient();
 
-    String API_KEY = "add_your_api_key";
+    String API_KEY = "api_key_here";
 
     int currentChat = -1;
 
